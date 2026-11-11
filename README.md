@@ -220,6 +220,10 @@ npm run dev             # Vite dev server with HMR
 php artisan queue:work  # Queue worker
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Inventoros/)
+
 ## Configuration
 
 1. Copy `.env.example` to `.env` and configure:
